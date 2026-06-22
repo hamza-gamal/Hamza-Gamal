@@ -1,53 +1,77 @@
 <div align="center">
+  <h1>👋 Hi, I'm Hamza Gamal</h1>
+  <h3>🚀 Frontend Developer | UI/UX Designer | Programming Engineer</h3>
+  <p>🌐 <b>Location:</b> Cairo, Egypt | 💻 <b>Status:</b> Student -> Programmer</p>
+</div>
 
-<h1>👋 Hi, I'm Hamza Gamal</h1>
-<h3>🚀 Frontend Developer | UI/UX Designer | Programming Engineer</h3>
+<br>
 
-<p>🌐 <b>Location:</b> Cairo, Egypt | 💻 <b>Status:</b> Student -> Programmer</p>
-
-<hr>
-
-<h3 align="left">💻 About Me</h3>
-<p align="left">
-I'm an Egyptian Front-End Developer dedicated to creating clean, elegant, and fully responsive web designs. I love bringing modern layouts to life with precise attention to detail.
-</p>
-
-<ul align="left">
-  <li>🛠️ <b>Current Focus:</b> Advanced Frontend Development & UI/UX Optimization.</li>
-  <li>🎯 <b>Goal:</b> Building impactful web applications and evolving into a professional Software Engineer.</li>
-  <li>🎨 <b>Passion:</b> Combining photography, illustration, and code to deliver top-notch user experiences.</li>
-</ul>
-
-<hr>
-
-<h3>🚀 Tech Stack & Skills</h3>
-
-<table align="center">
+<!-- قسم نبذة عني -->
+<table width="100%">
   <tr>
-    <th>🌐 Frontend Development</th>
-    <th>🎨 Design & Experience</th>
-  </tr>
-  <tr>
-    <td>HTML5 🌐<br>CSS3 🎨<br>JavaScript ⚡</td>
-    <td>UI Design: 75% 🖌️<br>UX Design: 90% 🧠<br>Responsive Design: 95% 📱</td>
+    <td bgcolor="#1e2228" style="padding: 10px; border-radius: 6px;">
+      <h3 style="margin: 0; color: #ffffff;">🙋‍♂️ About Me</h3>
+    </td>
   </tr>
 </table>
 
-<hr>
+<br>
 
-<h3>📂 Featured Projects</h3>
+- 🖥️ I'm an Egyptian Front-End Developer dedicated to creating clean and responsive web designs.
+- 🎨 I build websites using HTML, CSS, and JavaScript, bringing modern layouts to life with precise attention to detail.
+- 🛠️ **Current Focus:** Advanced Frontend Development & UI/UX Optimization.
+- 🎯 **Goal:** Building impactful web applications and evolving into a professional Software Engineer.
+- 📸 **Passion:** Combining photography, illustration, and code to deliver top-notch user experiences.
 
-<p><b>🕋 Quran Website</b><br>An elegant online interface for reading and reflecting upon the Holy Quran.</p>
-<p><b>📄 Personal Portfolio</b><br>My modern personal showcase built in 2025 to highlight my web tech stack.</p>
-<p><b>🦁 Leon Template</b><br>A fully optimized, eye-comfortable light-mode responsive web template.</p>
-<p><b>🍔 Restaurant Concept</b><br>An experimental frontend concept showcasing modern UI layouts.</p>
+<br>
 
-<hr>
+<!-- قسم المهارات والتقنيات -->
+<table width="100%">
+  <tr>
+    <td bgcolor="#1e2228" style="padding: 10px; border-radius: 6px;">
+      <h3 style="margin: 0; color: #ffffff;">🚀 Tech Stack & Skills</h3>
+    </td>
+  </tr>
+</table>
 
-<h3>📥 Connect With Me</h3>
+<br>
 
-<p>📧 <b>Email:</b> <a href="mailto:thehamzagamal@gmail.com">thehamzagamal@gmail.com</a></p>
-<p>💬 <b>WhatsApp:</b> <a href="https://wa.me/201121904745" target="_blank">اضغط هنا للشات المباشر (01121904745)</a></p>
-<p>🌍 <b>Website:</b> <a href="https://hamza-gamal.github.io/portfolio/" target="_blank">My Portfolio Website</a></p>
+- **🌐 Frontend Development:** HTML5, CSS3, JavaScript ⚡
+- **🖌️ UI Design:** Professional user interface layouts (75%)
+- **🧠 UX Design:** User experience optimization and wireframing (90%)
+- **📱 Responsive Design:** Fully cross-browser and mobile-friendly designs (95%)
 
-</div>
+<br>
+
+<!-- قسم المشاريع المميزة -->
+<table width="100%">
+  <tr>
+    <td bgcolor="#1e2228" style="padding: 10px; border-radius: 6px;">
+      <h3 style="margin: 0; color: #ffffff;">📂 Featured Projects</h3>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+- 🕋 **Quran Website:** An elegant online interface for reading and reflecting upon the Holy Quran.
+- 📄 **Personal Portfolio:** My modern personal showcase built in 2025 to highlight my web tech stack.
+- 🦁 **Leon Template:** A fully optimized, eye-comfortable light-mode responsive web template.
+- 🍔 **Restaurant Concept:** An experimental frontend concept showcasing modern UI layouts.
+
+<br>
+
+<!-- قسم وسائل التواصل -->
+<table width="100%">
+  <tr>
+    <td bgcolor="#1e2228" style="padding: 10px; border-radius: 6px;">
+      <h3 style="margin: 0; color: #ffffff;">📥 Connect With Me</h3>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+- 📧 **Email:** [thehamzagamal@gmail.com](mailto:thehamzagamal@gmail.com)
+- 💬 **WhatsApp:** [اضغط هنا للشات المباشر](https://wa.me/201121904745)
+- 🌍 **Website:** [My Portfolio Website](https://hamza-gamal.github.io/portfolio/)

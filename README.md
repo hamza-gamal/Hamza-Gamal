@@ -51,10 +51,10 @@
 
 <br>
 
-- 🕋 **Quran Website:** An elegant online interface for reading and reflecting upon the Holy Quran.
-- 📄 **Personal Portfolio:** My modern personal showcase built to highlight my web tech stack.
-- 🦁 **Leon Template:** A fully optimized, eye-comfortable web template.
-- 🍔 **Restaurant Concept:** An experimental frontend concept showcasing modern UI layouts.
+- 🕋 **[Quran Website](https://hamza-gamal.github.io/quran-kareem/):** An elegant online interface for reading and reflecting upon the Holy Quran.
+- 📄 **[Personal Portfolio](https://hamza-gamal.github.io/portfolio/):** My modern personal showcase built to highlight my web tech stack.
+- 🦁 **[Leon Template](https://hamza-gamal.github.io/leon/):** A fully optimized, eye-comfortable web template.
+- 🍔 **[Restaurant Concept](https://hamza-gamal.github.io/restaurant/):** An experimental frontend concept showcasing modern UI layouts.
 
 <br>
 

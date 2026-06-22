@@ -1,11 +1,6 @@
 # Hi, I'm Hamza Gamal 👋 
 ### Frontend Developer | UI/UX Designer | Programming Engineer 🚀
 
-<p align="left">
-  <img src="https://shields.io" alt="Location">
-  <img src="https://shields.io" alt="Status">
-</p>
-
 ---
 
 ### 💻 About Me
@@ -20,18 +15,14 @@ I'm an Egyptian Front-End Developer dedicated to creating clean, elegant, and fu
 ### 🚀 Tech Stack & Skills
 
 #### 🌐 Frontend Development
-<p align="left">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="JavaScript">
-</p>
+- **HTML5** 🌐
+- **CSS3** 🎨
+- **JavaScript** ⚡
 
 #### 🎨 Design & Experience
-<p align="left">
-  <img src="https://shields.io" alt="UI">
-  <img src="https://shields.io" alt="UX">
-  <img src="https://shields.io" alt="Responsive">
-</p>
+- **UI Design:** 75% 🖌️
+- **UX Design:** 90% 🧠
+- **Responsive Design:** 95% 📱
 
 ---
 
@@ -45,13 +36,11 @@ I'm an Egyptian Front-End Developer dedicated to creating clean, elegant, and fu
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://vercel.app" alt="Hamza's Stats">
+  <img src="https://vercel.app" alt="Hamza's Stats" width="400">
 </p>
 
 ---
 
 ### 📥 Connect With Me
-<p align="left">
-  <a href="mailto:thehamzagamal@gmail.com"><img src="https://shields.io" alt="Email"></a>
-  <a href="https://wa.me/201121904745" target="_blank"><img src="https://shields.io" alt="WhatsApp"></a>
-</p>
+- 📧 **Email:** thehamzagamal@gmail.com
+- 💬 **WhatsApp:** +201121904745 📞 [اضغط هنا للشات المباشر](https://wa.me)
